@@ -11,3 +11,6 @@
 
 Esto es una modificación al fichero matemáticas
 
+Nueva modificacion para trabajar con stash
+
+Modificacion despues de stash pop
