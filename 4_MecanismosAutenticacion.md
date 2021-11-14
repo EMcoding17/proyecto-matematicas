@@ -16,6 +16,4 @@ La autenticación permite controlar el acceso de los usuarios que intentan acced
 
 **Secure Shell:** Proporciona autenticación mediante el uso de contraseñas, claves públicas, o ambos.
 
-**Autenticación de acceso básica HTTP:** La autenticación de acceso básica descrita en el RFC 7617, se sirve de la cabecera Authorization de HTTP para enviar en cada petición las credenciales de acceso. 
 
-**Autenticación por token de sesión:** Genera un token con caducidad establecida asociado internamente a un usuario.
